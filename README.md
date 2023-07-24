@@ -1,4 +1,4 @@
-# Hotel Analysis
+# AtliQ Grants Hotel Analysis
 
 The analysis aims to gain insights into the hotel's business performance, booking patterns, and customer preferences. It explores the provided hotel booking dataset, performs data cleaning, and conducts an exploratory data analysis to discover key trends and patterns.
 
